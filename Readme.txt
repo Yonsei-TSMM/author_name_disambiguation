@@ -10,5 +10,5 @@ We created a carefully hand-crafted training dataset drawn from the entire PubMe
 - This file includes SCOPUS author ids that matched a PMID from SCOPUS database (http://www.scopus.com/).
 - The first column is a SCOPUS id, the second is a PMID, and the last is the author name of PMID.
 
-Please visit http://informatics.yonsei.ac.kr/tsmm/author_name_disambiguation/and.html for the further information.
+Please visit http://informatics.yonsei.ac.kr/tsmm/author_name_disambiguation/and.html for further information.
 
